@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NSDChat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/NSDChat.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
